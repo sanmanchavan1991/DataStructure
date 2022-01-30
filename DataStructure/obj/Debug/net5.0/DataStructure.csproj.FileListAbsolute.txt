@@ -1,0 +1,16 @@
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\bin\Debug\net5.0\DataStructure.exe
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\bin\Debug\net5.0\DataStructure.deps.json
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\bin\Debug\net5.0\DataStructure.runtimeconfig.json
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\bin\Debug\net5.0\DataStructure.runtimeconfig.dev.json
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\bin\Debug\net5.0\DataStructure.dll
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\bin\Debug\net5.0\ref\DataStructure.dll
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\bin\Debug\net5.0\DataStructure.pdb
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.csproj.AssemblyReference.cache
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.AssemblyInfoInputs.cache
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.AssemblyInfo.cs
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.dll
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\obj\Debug\net5.0\ref\DataStructure.dll
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.pdb
+C:\Users\sanman chavan\source\repos\DataStructure\DataStructure\obj\Debug\net5.0\DataStructure.genruntimeconfig.cache
